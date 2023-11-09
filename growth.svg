@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="114px" viewBox="0 0 85 114" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>growth copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="1.72775524%" y1="16.3248982%" x2="98.5540066%" y2="83.8590569%" id="linearGradient-1">
+            <stop stop-color="#281386" offset="0%"></stop>
+            <stop stop-color="#271C90" offset="19%"></stop>
+            <stop stop-color="#2531A7" offset="42%"></stop>
+            <stop stop-color="#2441B8" offset="55%"></stop>
+            <stop stop-color="#234DC5" offset="67%"></stop>
+            <stop stop-color="#2253CC" offset="79%"></stop>
+            <stop stop-color="#2255CE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-24.1193399%" y1="33.493037%" x2="124.551969%" y2="66.5971347%" id="linearGradient-2">
+            <stop stop-color="#281386" offset="0%"></stop>
+            <stop stop-color="#271C90" offset="19%"></stop>
+            <stop stop-color="#2531A7" offset="42%"></stop>
+            <stop stop-color="#2441B8" offset="55%"></stop>
+            <stop stop-color="#234DC5" offset="67%"></stop>
+            <stop stop-color="#2253CC" offset="79%"></stop>
+            <stop stop-color="#2255CE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-24.1193399%" y1="17.1886955%" x2="124.551969%" y2="82.990541%" id="linearGradient-3">
+            <stop stop-color="#281386" offset="0%"></stop>
+            <stop stop-color="#271C90" offset="19%"></stop>
+            <stop stop-color="#2531A7" offset="42%"></stop>
+            <stop stop-color="#2441B8" offset="55%"></stop>
+            <stop stop-color="#234DC5" offset="67%"></stop>
+            <stop stop-color="#2253CC" offset="79%"></stop>
+            <stop stop-color="#2255CE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home_page_PF_2020-Copy" transform="translate(-736.000000, -1477.000000)" fill-rule="nonzero">
+            <g id="Pink-Area-1-Copy-3" transform="translate(736.000000, 1442.000000)">
+                <g id="growth-copy" transform="translate(-75.000000, 35.000000)">
+                    <polyline id="Path" fill="url(#linearGradient-1)" points="82.6666667 114 136 60.9767442 160 84.8372093 160 0 74.6666667 0 98.6666667 23.8604651 68 54.3488372"></polyline>
+                    <polyline id="Path" fill="#001647" points="91 74 83 114 67 98"></polyline>
+                    <polygon id="Path" fill="url(#linearGradient-2)" transform="translate(45.888199, 82.115620) rotate(-45.000000) translate(-45.888199, -82.115620) " points="8.26065123 55.7714185 83.5029748 55.7896635 83.5157464 108.459822 8.27342285 108.441577"></polygon>
+                    <g id="Group" transform="translate(6.000000, 45.000000)">
+                        <path d="M75.8004194,27.2505 L35.639129,66.8933571 C34.5306774,67.9875 34.5306774,69.7635 35.639129,70.8576429 C36.7475806,71.9517857 38.5468065,71.9517857 39.6552581,70.8576429 L79.8165484,31.2147857 C80.925,30.1206429 80.925,28.3446429 79.8165484,27.2505 C78.7054194,26.1537143 76.908871,26.1537143 75.8004194,27.2505 Z" id="Path" fill="#29C9FF"></path>
+                        <path d="M77.6451613,21.1428571 L37.483871,60.7857143 C34.5253226,57.8653571 29.7327419,57.8653571 26.7741935,60.7857143 L16.0645161,50.2142857 C19.0230645,47.2939286 19.0230645,42.5632143 16.0645161,39.6428571 L56.2258065,0" id="Path" fill="url(#linearGradient-3)"></path>
+                    </g>
+                    <polygon id="Path" fill="#29C9FF" transform="translate(88.465242, 50.202660) rotate(-45.000000) translate(-88.465242, -50.202660) " points="84.7030127 47.5415045 92.226181 47.5433287 92.2274711 52.8638155 84.7043029 52.8619913"></polygon>
+                    <polygon id="Path" fill="#29C9FF" transform="translate(112.417796, 26.267040) rotate(-45.000000) translate(-112.417796, -26.267040) " points="89.8436554 23.6013226 134.990646 23.61227 134.991936 28.9327568 89.8449455 28.9218094"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

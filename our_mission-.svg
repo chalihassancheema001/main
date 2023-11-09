@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Our Mission</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-24.1193399%" y1="16.3248982%" x2="124.551969%" y2="83.8590569%" id="linearGradient-1">
+            <stop stop-color="#281386" offset="0%"></stop>
+            <stop stop-color="#271C90" offset="19%"></stop>
+            <stop stop-color="#2531A7" offset="42%"></stop>
+            <stop stop-color="#2441B8" offset="55%"></stop>
+            <stop stop-color="#234DC5" offset="67%"></stop>
+            <stop stop-color="#2253CC" offset="79%"></stop>
+            <stop stop-color="#2255CE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home_page_PF_2020-Copy" transform="translate(-234.000000, -2934.000000)" fill-rule="nonzero">
+            <g id="Our-Mission" transform="translate(234.000000, 2934.000000)">
+                <polygon id="Path" fill="#29C9FF" points="58.125 33.75 15.9375 33.75 15.9375 9.375 58.125 9.375 58.125 10.3125 50.625 21.5625 58.125 32.8125"></polygon>
+                <polygon id="Path" fill="#E8F3FC" points="1.875 50.625 22.5 50.625 22.5 58.125 1.875 58.125"></polygon>
+                <path d="M60,7.5 L17.8125,7.5 L17.8125,0 L6.5625,0 L6.5625,48.75 L0,48.75 L0,52.5 L20.625,52.5 L20.625,56.25 L0,56.25 L0,60 L24.375,60 L24.375,48.75 L17.8125,48.75 L17.8125,35.625 L60,35.625 L60,32.25 L52.875,21.5625 L60,10.8796875 L60,7.5 Z M14.0625,48.75 L10.3125,48.75 L10.3125,3.75 L14.0625,3.75 L14.0625,48.75 Z M48.375,21.5625 L55.246875,31.875 L17.8125,31.875 L17.8125,11.25 L55.246875,11.25 L48.375,21.5625 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
